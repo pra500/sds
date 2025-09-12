@@ -39,10 +39,12 @@ public class Pracc1 {
 	
 	
 	
-				
+		
 	
 	
 	
+	
+		
 	
 				
 		
