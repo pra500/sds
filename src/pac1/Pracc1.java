@@ -30,13 +30,23 @@ public class Pracc1 {
 			if (m.getValue() == 2 ) {
 				System.out.println(m.getKey());
 				break;
-				
+						
 			}
 
 		}
 
 	}
+	
+	
+	
+				
+	
+	
+				
 		
+	
+	
+	
 	}
 
 
